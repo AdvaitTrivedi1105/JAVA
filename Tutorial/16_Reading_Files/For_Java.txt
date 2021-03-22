@@ -1,0 +1,6 @@
+1122
+We are reading a file using Java.....
+Python is the best Programming language.
+I love Coding.
+
+new line
